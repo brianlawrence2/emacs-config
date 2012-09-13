@@ -1,0 +1,5 @@
+(add-to-list 'load-path "~/.emacs.d/pony-mode/src")
+(require 'pony-mode)
+;(add-to-list 'load-path "~/.emacs.d/yasnippet")
+;(require 'yasnippet)
+;(yas-global-mode 1)
